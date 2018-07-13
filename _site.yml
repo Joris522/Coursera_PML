@@ -1,0 +1,8 @@
+name: "Coursera Practical Machine Learning"
+output_dir: "."
+navbar:
+  title: "Coursera Practical Machine Learning"
+  left:
+    - text: "Overview"
+      href: index.html
+      
